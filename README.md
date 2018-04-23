@@ -1,5 +1,6 @@
 # Web-Scrapers
 This repo contains Web Scrapers for Yelp, Zomato, Foursquare and Burrp. 
+This also contains Google Image Scrapers.
 
 
 NOTE: This is used for educational purposes to teach my students how to scrape web. Use it with discretion.
