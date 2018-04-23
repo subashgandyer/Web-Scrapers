@@ -1,0 +1,71 @@
+<div class="card search-snippet-card search-card ">
+<div class="content">
+<div class="js-search-result-li even status 1" data-position="1-1" data-res_id="73279" data-trprovider="">
+<article class="search-result first ">
+<div class="pos-relative clearfix ">
+<div class="row">
+<div class="col-s-6 col-m-4">
+<div class="search_left_featured clearfix">
+<a class="feat-img lazy" data-original="https://b.zmtcdn.com/data/pictures/9/73279/90abc9281c45dc98561c6d980d8153d9_featured_v2.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A" href="https://www.zomato.com/chennai/paradise-perungudi/photos#tabtop" style="  background-image:url(https://b.zmtcdn.com/images/placeholder_200.png);background-repeat: repeat;"></a>
+</div>
+</div>
+<div class="col-s-16 col-m-12 pl0 ">
+<div class="row">
+<div class="col-s-12">
+<div class="res-snippet-small-establishment mt5" style="margin-bottom: 7px;"><a class="zdark ttupper fontsize6" href="https://www.zomato.com/chennai/casual-dining " title="Casual Dining in Chennai">Casual Dining</a></div>
+<a class="result-title hover_feedback zred bold ln24 fontsize0 " data-result-type="ResCard_Name" href="https://www.zomato.com/chennai/paradise-perungudi" title="paradise Restaurant, Perungudi">Paradise
+                                    </a>
+<div class="clear"></div>
+<a class="ln24 search-page-text mr10 zblack search_result_subzone left" href="https://www.zomato.com/chennai/perungudi-restaurants" title="Restaurants in Perungudi"><b>Perungudi</b></a>
+</div>
+<div class="ta-right floating search_result_rating col-s-4 clearfix" style="line-height: 14px;">
+<div class="rating-popup rating-for-73279 res-rating-nf right level-6 bold" data-content="Good" data-res-id="73279" data-variation="mini inverted">
+                                        3.7
+                                    </div>
+<div class="clear mb5"></div>
+<!-- show the vote count only if there's a rating -->
+<span class="rating-votes-div-73279 grey-text fontsize5">751 votes</span>
+<br/>
+<a class="result-reviews search-result-reviews right fontsize5 grey-text" data-result-type="ResCard_Reviews" href="https://www.zomato.com/chennai/paradise-perungudi/reviews#tabtop" title="User reviews for Paradise, Perungudi">
+                                            663 reviews
+                                        </a>
+</div>
+</div>
+<div class="row">
+<div class="col-m-16 search-result-address grey-text nowrap ln22" style=" max-width:370px; " title="392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai"> 392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ui divider"></div>
+<div class="search-page-text clearfix row">
+<div class="clearfix"><span class="col-s-5 col-m-4 ttupper fontsize5 grey-text">Cuisines: </span><span class="col-s-11 col-m-12 nowrap pl0"><a href="https://www.zomato.com/chennai/restaurants/north-indian" title="North Indian">North Indian</a>, <a href="https://www.zomato.com/chennai/restaurants/biryani" title="Biryani">Biryani</a></span></div>
+<div class="res-cost clearfix"><span class="col-s-5 col-m-4 ttupper fontsize5 grey-text">Cost for two:</span><span class="col-s-11 col-m-12 pl0">₹500</span></div>
+<div class="res-timing clearfix" title="11 AM to 11 PM">
+<span class="col-s-5 col-m-4 ttupper fontsize5 grey-text left">Hours:</span>
+<div class="col-s-11 col-m-12 pl0 search-grid-right-text ">
+                                11 AM to 11 PM (Mon-Sun)
+                                                            </div>
+<div class="clear"></div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="ui three item menu search-result-action mt0">
+<a class="item res-snippet-ph-info" data-phone-no-str="040 67408400" data-res-name="Paradise">
+<span class="zdark fontsize4 bold action_btn_icon" data-icon="">Call</span>
+</a>
+<a class="item result-menu" data-result-type="ResCard_Menu" href="https://www.zomato.com/chennai/paradise-perungudi/menu#tabtop" title="paradise Menu">
+<span class="zdark fontsize4 bold action_btn_icon" data-icon="">View Menu</span>
+</a>
+<a class="item has_o2_link disabled" data-app_link="" data-class_name="o2_link" data-href="https://www.zomato.com/restaurant?tab=order&amp;res_id=73279" data-res_id="73279" data-source="search">
+<div><span class="fontsize4 bold action_btn_icon o2_closed_now" data-icon="">Order Now</span>
+<div class="clear ieclear"></div>
+<span class="fontsize5 o2_closed_now">
+                            Currently Offline
+                        </span>
+</div>
+</a>
+</div>
+</div>
