@@ -19,9 +19,9 @@ Output: Images from Google Images and Website information from urls
 
 ## Tools Used
 
-Python
+* Python
 
-Selenium Web Driver
+* Selenium Web Driver
 
 
-NOTE: This is used for educational purposes to teach students how to scrape web. Not for commercial purposes. Use it with discretion.
+NOTE: This is used for **educational purposes** to teach students how to scrape web. **Not for commercial purposes**. Use it with discretion.
